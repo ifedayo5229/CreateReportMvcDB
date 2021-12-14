@@ -1,2 +1,2 @@
 # CreateReportMvcDB
-Report definition language ,can be exported to pdf,doc and the likes
+Report definition language, display with webform, can be exported to pdf,doc and the likes
